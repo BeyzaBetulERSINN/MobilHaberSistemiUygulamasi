@@ -1,0 +1,32 @@
+.header{}
+.kategoriDiv{}
+.haberDiv{}
+.katEkleDuzenle{}
+.mForm{
+    display: none;
+    width: 200px;
+    height:auto;
+    position:fixed;
+    top:25%;
+    left:50%;
+    margin-left: -100px;
+    border:1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    background: #fff;
+    
+}
+table{
+    border:1px solid #000;
+    text-align: center;
+}
+td{
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+    padding: 2px;
+    margin:0;
+}
+#haberForm{
+    display: flex;
+    flex-direction: column;
+}

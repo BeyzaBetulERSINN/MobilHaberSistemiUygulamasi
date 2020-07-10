@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "134197366003",
+    "firebase_url": "https://haberodev-d45d8.firebaseio.com",
+    "project_id": "haberodev-d45d8",
+    "storage_bucket": "haberodev-d45d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134197366003:android:77f46ae4b84aa262",
+        "android_client_info": {
+          "package_name": "com.example.haberodev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134197366003-i2q83l0ncpn8vm665kivte36601kankq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqn10N_tsm0JYSSIihBLlxhEdhTK65oKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134197366003-i2q83l0ncpn8vm665kivte36601kankq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
